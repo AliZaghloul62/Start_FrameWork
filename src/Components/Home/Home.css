@@ -1,0 +1,14 @@
+#home img {
+    width: 20%;
+}
+
+#home #line {
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    margin: 0 10px;
+}
+
+.home-section{
+    background-color: #1ABC9C !important;
+}
